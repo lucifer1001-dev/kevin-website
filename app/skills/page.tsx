@@ -237,9 +237,13 @@ export default function Skills() {
                   </div>
                   <h2 
                     className="text-3xl font-bold text-amber-50 transition-all duration-300 group-hover/header:text-amber-100"
-                    style={{ fontFamily: 'var(--font-playfair)', letterSpacing: '-0.02em', fontWeight: 700 }}
                     style={{
-                      animation: isVisible ? 'slideInRight 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards' : 'none',
+                      fontFamily: 'var(--font-playfair)',
+                      letterSpacing: '-0.02em',
+                      fontWeight: 700,
+                      animation: isVisible
+                        ? 'slideInRight 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards'
+                        : 'none',
                       animationDelay: `${categoryIndex * 0.1 + 0.1}s`,
                       opacity: isVisible ? 1 : 0,
                     }}
