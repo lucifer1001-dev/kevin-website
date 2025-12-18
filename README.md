@@ -162,7 +162,7 @@ This website can be deployed to:
 ## 🤝 Contact
 
 - **Email**: kgirshman329@gmail.com
-- **Phone**: +1 (713) 938-9113
+- **Phone**: +1 (917) 764-8247
 - **Location**: Dallas, TX 75232
 
 ---

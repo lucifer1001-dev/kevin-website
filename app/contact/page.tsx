@@ -77,8 +77,8 @@ export default function Contact() {
         </svg>
       ),
       title: "Phone",
-      value: "+1 (713) 938-9113",
-      href: "tel:+17139389113",
+      value: "+1 (917) 764-8247",
+      href: "tel:+19177648247",
       color: "from-cyan-600 to-teal-600",
       darkColor: "from-cyan-400 to-teal-400",
     },
@@ -546,7 +546,7 @@ export default function Contact() {
                 Email Me
               </a>
               <a
-                href="tel:+17139389113"
+                href="tel:+19177648247"
                 className="inline-flex items-center justify-center gap-2 rounded-full border-2 border-white px-8 py-4 text-base font-semibold text-white transition-all hover:bg-white hover:text-amber-900"
               >
                 <svg

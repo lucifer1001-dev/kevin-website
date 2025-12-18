@@ -33,7 +33,7 @@ export default function Footer() {
       },
       {
         name: "Phone",
-        href: "tel:+17139389113",
+        href: "tel:+19177648247",
         icon: (
           <svg
             className="h-6 w-6"
@@ -127,8 +127,8 @@ export default function Footer() {
             kgirshman329@gmail.com
           </a>
           <span className="hidden sm:inline">•</span>
-          <a href="tel:+17139389113" className="hover:text-amber-100">
-            +1 (713) 938-9113
+          <a href="tel:+19177648247" className="hover:text-amber-100">
+            +1 (917) 764-8247
           </a>
         </div>
 
