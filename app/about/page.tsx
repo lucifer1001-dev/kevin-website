@@ -355,7 +355,7 @@ export default function About() {
         <div className="relative mx-auto max-w-7xl px-6 lg:px-8">
           <div className="grid grid-cols-2 gap-8 sm:grid-cols-4">
             {[
-              { label: 'Years Experience', value: '8+' },
+              { label: 'Years Experience', value: '12+' },
               { label: 'Companies Worked', value: '4' },
               { label: 'Projects Delivered', value: '50+' },
               { label: 'Impact Created', value: '∞' },
